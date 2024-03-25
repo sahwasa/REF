@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sahwasa/REF/static/css/main.2322f7ed.css",
+    "main.js": "/sahwasa/REF/static/js/main.c8dd3e16.js",
+    "static/js/787.15f56516.chunk.js": "/sahwasa/REF/static/js/787.15f56516.chunk.js",
+    "index.html": "/sahwasa/REF/index.html",
+    "main.2322f7ed.css.map": "/sahwasa/REF/static/css/main.2322f7ed.css.map",
+    "main.c8dd3e16.js.map": "/sahwasa/REF/static/js/main.c8dd3e16.js.map",
+    "787.15f56516.chunk.js.map": "/sahwasa/REF/static/js/787.15f56516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2322f7ed.css",
+    "static/js/main.c8dd3e16.js"
+  ]
+}
